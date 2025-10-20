@@ -21,3 +21,6 @@ langchain-huggingface
 sentence-transformers
 msoffcrypto-tool
 langchain_experimental
+rank_bm25
+wikipedia
+
