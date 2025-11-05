@@ -9,11 +9,8 @@
 By the end of this course, you’ll be able to:
 
 ✅ Understand the complete architecture and workflow of RAG systems
-
 ✅ Implement document ingestion, preprocessing, and embedding pipelines
-
 ✅ Build hybrid retrievers combining dense and sparse search methods
-
 ✅ Create and deploy AI agents and Agentic RAG systems using LangGraph
 
 ✅ Evaluate, debug, and improve chatbot and RAG performance
